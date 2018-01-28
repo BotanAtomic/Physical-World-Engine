@@ -4,7 +4,7 @@ import org.apollon.math.Vector2;
 
 public class Entity {
 
-    private Vector2 vector2;
+    private Vector2 vector;
 
 
 
